@@ -1,3 +1,5 @@
+# NAME : SRI SAI PRIYA S
+# REGISTER NUMBER : 212222240103
 # EX.NO.09        A project on Time series analysis on weather forecasting using ARIMA model 
 ### Date: 
 
