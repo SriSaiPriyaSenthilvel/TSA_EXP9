@@ -1,10 +1,10 @@
 # NAME : SRI SAI PRIYA S
 # REGISTER NUMBER : 212222240103
-# EX.NO.09        A project on Time series analysis on weather forecasting using ARIMA model 
+# EX.NO.09        A project on Time series analysis on powerconsumption using ARIMA model 
 ### Date: 
 
 ### AIM:
-To Create a project on Time series analysis on weather powerconsumption using ARIMA model in  Python and compare with other models.
+To Create a project on Time series analysis on powerconsumption using ARIMA model in  Python and compare with other models.
 ### ALGORITHM:
 1. Explore the dataset of powerconsumption
 2. Check for stationarity of time series time series plot
